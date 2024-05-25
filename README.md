@@ -1,5 +1,6 @@
-### AtliQ's  Finance, Sales, Marketing, SupplyChain Power BI Dashboards
+### AtliQ's  Finance, Sales, Marketing, SupplyChain Analysis
 
+Implemented Finance, Sales, Marketing, SupplyChain reports in Power BI.
 🏠 Home - Your hub for an overview of all the Pages.
 ℹ️ Info - All the essential information you need.
 🏦 Finance View - Unveil profit and loss statements, Net Sales Performance over time, and impactful Top & Bottom product analysis.
